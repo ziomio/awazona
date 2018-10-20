@@ -1,24 +1,3 @@
-# README
+# Awazona - the best ecommerce platform for big companies 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**Awazona** is a complete B2C solution which allows business owners to easily showcase and sell their products online. It is built on top of [Spree Commerce framework](https://github.com/spree/spree).
